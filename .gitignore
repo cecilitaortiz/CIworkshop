@@ -1,0 +1,15 @@
+Dependencias de Node
+
+node_modules/
+npm-debug.log
+
+Reportes de Tests (generados por Jenkins/Jest)
+
+junit.xml
+test-report.xml
+junit.xml
+test-results.xml
+
+Archivos de sistema
+
+.DS_Store
